@@ -1,0 +1,27 @@
+{
+  "name": "bsb-520dev2-import",
+  "bsc-flags": [],
+  "reason": {
+    "react-jsx": 3
+  },
+  "bs-dependencies": [
+    "bs-abstract",
+    "relude"
+  ],
+  "sources": [
+    {
+      "dir": "./src",
+      "subdirs": true
+    }
+  ],
+  "package-specs": {
+    "module": "es6",
+    "in-source": true
+  },
+  "refmt": 3,
+  "suffix": ".bs.js",
+  "warnings": {
+    "number": "+A-4-9-40-42-102",
+    "error": "+8+11"
+  }
+}
